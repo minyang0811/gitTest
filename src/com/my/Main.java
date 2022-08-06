@@ -10,5 +10,7 @@ public class Main {
         System.out.println("gg333");
         System.out.println("为什么会分支");
         System.out.println("为什么会分支222");
+
+        System.out.println("熟悉git了");
     }
 }
