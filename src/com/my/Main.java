@@ -5,5 +5,6 @@ public class Main {
         System.out.println("hello git");
         System.out.println("hello master2");
         System.out.println("no gg");
+        System.out.println("gg2");
     }
 }
